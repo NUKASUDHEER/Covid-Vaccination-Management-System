@@ -1,4 +1,4 @@
-Command Line Record Maintenance For Covid Vaccination
+Project Title: Covid Vaccination Management System
 
 Project Description:
 
