@@ -3,7 +3,7 @@ Project Title: Covid Vaccination Management System
 Project Description:
 
 
-steps to run:
+Steps To Run:
 step-1: Go to the folder covidRecordMaintenance
 step-2: cd/covidRecordMaintenance
 step-3: run the following commands
