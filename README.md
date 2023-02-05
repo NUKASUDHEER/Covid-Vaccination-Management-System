@@ -6,6 +6,9 @@ Project Description:
 Steps To Run:
 step-1: Go to the folder covidRecordMaintenance
 step-2: cd/covidRecordMaintenance
+
+NOTE: Go to connection folder, check the connection in connections.java file and give your UserName and UserPassWord.
+
 step-3: run the following commands
         1) javac App.java
         2) java App
